@@ -10,7 +10,17 @@ public class Main {
 
     public static void main(String[] args) {
         getAllStudents();
+        /*
+        addStudent("Sahel", "Reza", "sahel.reza@email.com", "2003-02-27");
+        addStudent("Azer", "Lehas", "azer.lehas@email.com", "2002-03-27");
+        addStudent("Slate", "Zeneki", "slate.zeneki@email.com", "2027-03-02");
+        */
 
+        //updateStudentEmail(15, "sahelreza5@gmail.comn");
+
+        //deleteStudent(17);
+
+        getAllStudents();
     }
 
     public static void getAllStudents() {
